@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="separateProdTestSources" value="$TESTCONTAINERS_RYUK_DISABLED$" />
+    <profile name="sbt 1" modules="kata-01-spark-session,kata-01-spark-session.main,kata-01-spark-session.test,kata-01-spark-session_680,kata-01-spark-session_680.main,kata-01-spark-session_680.test" />
+  </component>
+</project>

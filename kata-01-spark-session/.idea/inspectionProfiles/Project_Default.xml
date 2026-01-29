@@ -1,0 +1,8 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="ExtractMethodRecommender" enabled="$TESTCONTAINERS_RYUK_DISABLED$" level="WARNING" enabled_by_default="$TESTCONTAINERS_RYUK_DISABLED$">
+      <option name="minLength" value="750" />
+    </inspection_tool>
+  </profile>
+</component>

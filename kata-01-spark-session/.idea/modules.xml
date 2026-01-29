@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kata-01-spark-session/kata-01-spark-session.iml" filepath="$PROJECT_DIR$/.idea/modules/kata-01-spark-session/kata-01-spark-session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kata-01-spark-session/kata-01-spark-session.kata-01-spark-session-build.iml" filepath="$PROJECT_DIR$/.idea/modules/kata-01-spark-session/kata-01-spark-session.kata-01-spark-session-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kata-01-spark-session/kata-01-spark-session.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kata-01-spark-session/kata-01-spark-session.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kata-01-spark-session/kata-01-spark-session.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kata-01-spark-session/kata-01-spark-session.test.iml" />
+    </modules>
+  </component>
+</project>

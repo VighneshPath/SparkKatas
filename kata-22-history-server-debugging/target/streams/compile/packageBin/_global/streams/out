@@ -1,0 +1,13 @@
+[debug] Packaging /Users/vigneshs/Projects/SparkKatas/kata-22-history-server-debugging/target/scala-2.12/kata-22-history-server-debugging_2.12-1.0.jar ...
+[debug] Input file mappings:
+[debug] 	Exercise$.class
+[debug] 	  /Users/vigneshs/Projects/SparkKatas/kata-22-history-server-debugging/target/scala-2.12/classes/Exercise$.class
+[debug] 	Exercise$$typecreator16$1.class
+[debug] 	  /Users/vigneshs/Projects/SparkKatas/kata-22-history-server-debugging/target/scala-2.12/classes/Exercise$$typecreator16$1.class
+[debug] 	Exercise$$typecreator6$1.class
+[debug] 	  /Users/vigneshs/Projects/SparkKatas/kata-22-history-server-debugging/target/scala-2.12/classes/Exercise$$typecreator6$1.class
+[debug] 	Exercise$delayedInit$body.class
+[debug] 	  /Users/vigneshs/Projects/SparkKatas/kata-22-history-server-debugging/target/scala-2.12/classes/Exercise$delayedInit$body.class
+[debug] 	Exercise.class
+[debug] 	  /Users/vigneshs/Projects/SparkKatas/kata-22-history-server-debugging/target/scala-2.12/classes/Exercise.class
+[debug] Done packaging.

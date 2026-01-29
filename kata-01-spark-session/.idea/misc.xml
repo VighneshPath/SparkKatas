@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MaterialThemeProjectNewConfig">
+    <option name="metadata">
+      <MTProjectMetadataState>
+        <option name="migrated" value="$TESTCONTAINERS_RYUK_DISABLED$" />
+        <option name="pristineConfig" value="false" />
+        <option name="userId" value="1bc67035:18f0e72ea4d:-8000" />
+        <option name="version" value="8.13.2" />
+      </MTProjectMetadataState>
+    </option>
+    <option name="titleBarState">
+      <MTProjectTitleBarConfigState>
+        <option name="overrideColor" value="false" />
+      </MTProjectTitleBarConfigState>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="$TESTCONTAINERS_RYUK_DISABLED$" project-jdk-name="corretto-23" project-jdk-type="JavaSDK" />
+</project>

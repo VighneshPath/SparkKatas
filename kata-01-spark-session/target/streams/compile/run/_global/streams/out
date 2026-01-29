@@ -1,0 +1,1 @@
+[debug] javaOptions: List(-Xms512M, -Xmx2G, --add-opens=java.base/sun.nio.ch=ALL-UNNAMED, --add-opens=java.base/java.util=ALL-UNNAMED, --add-opens=java.base/java.lang.invoke=ALL-UNNAMED, -Dorg.slf4j.simpleLogger.defaultLogLevel=warn)

@@ -1,0 +1,13 @@
+[debug] Created transactional ClassFileManager with tempDir = /Users/vigneshs/Projects/SparkKatas/kata-09-dataframes/target/scala-2.12/classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Created transactional ClassFileManager with tempDir = /Users/vigneshs/Projects/SparkKatas/kata-09-dataframes/target/scala-2.12/classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	Exercise$.class
+[debug] 	Exercise$delayedInit$body.class
+[debug] 	Exercise$$typecreator6$1.class
+[debug] 	Exercise.class
+[debug] 	Exercise$$typecreator16$1.class
+[debug] Removing the temporary directory used for backing up class files: /Users/vigneshs/Projects/SparkKatas/kata-09-dataframes/target/scala-2.12/classes.bak
