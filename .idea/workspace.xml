@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="$TESTCONTAINERS_RYUK_DISABLED$" id="345fe50b-f78d-473d-af02-56062c331436" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/kata-02-rdd-basics/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/kata-02-rdd-basics/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kata-03-transformations/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/kata-03-transformations/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kata-04-lazy-evaluation/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/kata-04-lazy-evaluation/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kata-05-partitioning/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/kata-05-partitioning/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kata-06-shuffling/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/kata-06-shuffling/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kata-07-narrow-wide-transformations/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/kata-07-narrow-wide-transformations/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kata-08-caching-persistence/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/kata-08-caching-persistence/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kata-09-dataframes/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/kata-09-dataframes/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kata-10-catalyst-optimizer/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/kata-10-catalyst-optimizer/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kata-11-tungsten-engine/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/kata-11-tungsten-engine/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kata-12-joins-broadcast/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/kata-12-joins-broadcast/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kata-13-memory-management/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/kata-13-memory-management/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="$TESTCONTAINERS_RYUK_DISABLED$" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="38vPNAbhsrZ0q5uxKbYFhBQdBoa" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="$TESTCONTAINERS_RYUK_DISABLED$" />
+    <option name="autoscrollToSource" value="$TESTCONTAINERS_RYUK_DISABLED$" />
+    <option name="hideEmptyMiddlePackages" value="$TESTCONTAINERS_RYUK_DISABLED$" />
+    <option name="showLibraryContents" value="$TESTCONTAINERS_RYUK_DISABLED$" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vigneshs/Projects/SparkKatas&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="$TESTCONTAINERS_RYUK_DISABLED$" type="JetRunConfigurationType">
+      <module name="SparkKatas" />
+      <method v="2">
+        <option name="Make" enabled="$TESTCONTAINERS_RYUK_DISABLED$" />
+      </method>
+    </configuration>
+    <configuration default="$TESTCONTAINERS_RYUK_DISABLED$" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="SparkKatas" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="$TESTCONTAINERS_RYUK_DISABLED$" id="Default" summary="Default task">
+      <changelist id="345fe50b-f78d-473d-af02-56062c331436" name="Changes" comment="" />
+      <created>1769677029020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769677029020</updated>
+    </task>
+    <servers />
+  </component>
+</project>
